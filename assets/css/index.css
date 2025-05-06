@@ -1,0 +1,33 @@
+body.iletisim .mb-3{
+    font-size: 25px;
+}
+
+.carousel {
+    max-width: 600px;
+    max-height: 700px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.carousel-item {
+    height: 900px;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.list-group-item{
+    text-align: left;
+}
+.baslik{
+    text-align: center;
+}
+.accordion, .mb-3{
+    max-width: 70%;
+    margin: 2rem auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
